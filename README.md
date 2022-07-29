@@ -1,3 +1,5 @@
+
+
 # Auth_wiki_demo
 Check out the codes in views.py, i didn't create models.
 I installed six ..(pip install six). It helps to smoothen codes making it run in various versions of python.
