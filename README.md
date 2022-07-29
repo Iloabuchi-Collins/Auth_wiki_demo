@@ -1,8 +1,8 @@
-[![GitHub issues](https://img.shields.io/github/issues/Iloabuchi-Collins/Auth_wiki_demo?color=blueviolet)](https://github.com/Iloabuchi-Collins/Auth_wiki_demo/issues)
-[![GitHub license](https://img.shields.io/github/license/Iloabuchi-Collins/Auth_wiki_demo?color=informational&logo=polo&logoColor=pink)](https://github.com/Iloabuchi-Collins/Auth_wiki_demo)
-[![GitHub issues](https://img.shields.io/github/issues/Iloabuchi-Collins/Auth_wiki_demo?color=blueviolet)](https://github.com/Iloabuchi-Collins/Auth_wiki_demo/issues)
-[![GitHub forks](https://img.shields.io/github/forks/Iloabuchi-Collins/Auth_wiki_demo?style=plastic)](https://github.com/Iloabuchi-Collins/Auth_wiki_demo/network)
-[![GitHub stars](https://img.shields.io/github/stars/Iloabuchi-Collins/Auth_wiki_demo)](https://github.com/Iloabuchi-Collins/Auth_wiki_demo/stargazers)
+[![GitHub issues](https://img.shields.io/github/issues/Iloabuchi-Collins/Auth_wiki_demo?color=blueviolet&style=plastic)](https://github.com/Iloabuchi-Collins/Auth_wiki_demo/issues)
+[![GitHub forks](https://img.shields.io/github/forks/Iloabuchi-Collins/Auth_wiki_demo?color=brightgreen&style=plastic)](https://github.com/Iloabuchi-Collins/Auth_wiki_demo/network)
+[![GitHub stars](https://img.shields.io/github/stars/Iloabuchi-Collins/Auth_wiki_demo?color=success&style=plastic)](https://github.com/Iloabuchi-Collins/Auth_wiki_demo/stargazers)
+[![GitHub license](https://img.shields.io/github/license/Iloabuchi-Collins/Auth_wiki_demo?color=important&style=plastic)](https://github.com/Iloabuchi-Collins/Auth_wiki_demo)
+[![Twitter](https://img.shields.io/twitter/url?color=blueviolet&label=Join%20Us%20on%20Twitter&logoColor=important&style=social&url=https%3A%2F%2Ftwitter%2FC_C_Iloabuchi)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FIloabuchi-Collins%2FAuth_wiki_demo%2Fedit%2Fmain)
 
 # Auth_wiki_demo
 Check out the codes in views.py, i didn't create models.
