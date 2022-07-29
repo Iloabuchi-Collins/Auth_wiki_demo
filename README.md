@@ -1,7 +1,4 @@
-https://img.shields.io/github/issues/Iloabuchi-Collins/Auth_wiki_demo?style=plastic
-https://img.shields.io/github/forks/Iloabuchi-Collins/Auth_wiki_demo?style=plastic
-https://img.shields.io/github/stars/Iloabuchi-Collins/Auth_wiki_demo
-https://img.shields.io/github/license/Iloabuchi-Collins/Auth_wiki_demo
+.. image:: https://img.shields.io/github/stars/Iloabuchi-Collins/Auth_wiki_demo   :alt: GitHub stars   :target: https://github.com/Iloabuchi-Collins/Auth_wiki_demo/stargazers
 
 # Auth_wiki_demo
 Check out the codes in views.py, i didn't create models.
